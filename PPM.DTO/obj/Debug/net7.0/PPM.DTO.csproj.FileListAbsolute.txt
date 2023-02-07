@@ -1,0 +1,24 @@
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\bin\Debug\net7.0\PPM.DTO.deps.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\bin\Debug\net7.0\PPM.DTO.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\bin\Debug\net7.0\PPM.DTO.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\refint\PPM.DTO.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\PPM.DTO.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DTO\obj\Debug\net7.0\ref\PPM.DTO.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\bin\Debug\net7.0\PPM.DTO.deps.json
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\bin\Debug\net7.0\PPM.DTO.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\bin\Debug\net7.0\PPM.DTO.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.AssemblyInfo.cs
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\refint\PPM.DTO.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\PPM.DTO.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DTO\obj\Debug\net7.0\ref\PPM.DTO.dll

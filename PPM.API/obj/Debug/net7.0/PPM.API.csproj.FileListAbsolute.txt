@@ -1,0 +1,262 @@
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\appsettings.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.exe
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.deps.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.runtimeconfig.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.PPM.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.API.props
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.API.props
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.API.props
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\scopedcss\bundle\PPM.API.styles.css
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CopyComplete
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\refint\PPM.API.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.genruntimeconfig.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\obj\Debug\net7.0\ref\PPM.API.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\ConsoleTables.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\EntityFramework.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\MySqlConnector.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DAl.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\appsettings.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.exe
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.deps.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.runtimeconfig.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\ConsoleTables.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\EntityFramework.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\MySqlConnector.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.CodeDom.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Data.SqlClient.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.PPM.API.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.API.props
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.API.props
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.API.props
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\scopedcss\bundle\PPM.API.styles.css
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\refint\PPM.API.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.genruntimeconfig.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.API\obj\Debug\net7.0\ref\PPM.API.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\appsettings.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.exe
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.deps.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.runtimeconfig.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.API.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\AWSSDK.CognitoIdentity.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\ConsoleTables.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\EntityFramework.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\MySqlConnector.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DTO.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DAl.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.DTO.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\bin\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.PPM.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.API.props
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.API.props
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.API.props
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\scopedcss\bundle\PPM.API.styles.css
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CopyComplete
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\refint\PPM.API.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\PPM.API.genruntimeconfig.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.API\obj\Debug\net7.0\ref\PPM.API.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\appsettings.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.API.exe
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.API.deps.json
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.API.runtimeconfig.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.API.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.API.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\AWSSDK.CognitoIdentity.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.DAl.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.DTO.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.DAl.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.DTO.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.csproj.AssemblyReference.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfoInputs.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.AssemblyInfo.cs
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CoreCompileInputs.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.PPM.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.build.PPM.API.props
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PPM.API.props
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PPM.API.props
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\scopedcss\bundle\PPM.API.styles.css
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.csproj.CopyComplete
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\refint\PPM.API.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\PPM.API.genruntimeconfig.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.API\obj\Debug\net7.0\ref\PPM.API.dll

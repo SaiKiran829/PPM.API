@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zek5ceIKGEKx0vf5cXusfLU9an0SrMmcraaNKMu2KVg=",
+  "Source": "PPM.API",
+  "BasePath": "_content/PPM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

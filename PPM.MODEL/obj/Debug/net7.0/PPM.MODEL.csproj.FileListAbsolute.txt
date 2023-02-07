@@ -1,0 +1,60 @@
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll

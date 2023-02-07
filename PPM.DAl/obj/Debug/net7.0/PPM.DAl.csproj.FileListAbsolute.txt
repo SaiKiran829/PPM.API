@@ -1,0 +1,85 @@
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.deps.json
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.runtimeconfig.json
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\refint\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.genruntimeconfig.cache
+c:\Users\SPasapula\Desktop\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\ref\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.deps.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.runtimeconfig.json
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CopyComplete
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\refint\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.pdb
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.genruntimeconfig.cache
+D:\Downloads\Entity Framework PPM\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\ref\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.deps.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.runtimeconfig.json
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfo.cs
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CopyComplete
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\refint\PPM.DAl.dll
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.genruntimeconfig.cache
+c:\Users\SPasapula\Desktop\PPM.API\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\ref\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.deps.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.runtimeconfig.json
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.DAl.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.AssemblyReference.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfoInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfo.cs
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CoreCompileInputs.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CopyComplete
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\refint\PPM.DAl.dll
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.pdb
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\PPM.DAl.genruntimeconfig.cache
+D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.DAl\obj\Debug\net7.0\ref\PPM.DAl.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\bin\Debug\net7.0\PPM.DAl.deps.json
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\bin\Debug\net7.0\PPM.DAl.runtimeconfig.json
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\bin\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\bin\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.AssemblyReference.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfoInputs.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.AssemblyInfo.cs
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CoreCompileInputs.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.csproj.CopyComplete
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\refint\PPM.DAl.dll
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.pdb
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\PPM.DAl.genruntimeconfig.cache
+c:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.DAl\obj\Debug\net7.0\ref\PPM.DAl.dll
