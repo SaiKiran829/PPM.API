@@ -90,3 +90,26 @@ D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.UI\obj\Debug\net7
 D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
 D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.UI\obj\Debug\net7.0\PPM.UI.genruntimeconfig.cache
 D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.UI.deps.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.UI.runtimeconfig.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.UI.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.UI.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.DAl.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.DOMAIN.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.IEntityOperation.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.DAl.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.DOMAIN.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\bin\Debug\net7.0\PPM.IEntityOperation.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.AssemblyReference.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfoInputs.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfo.cs
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CoreCompileInputs.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CopyComplete
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\refint\PPM.UI.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\PPM.UI.genruntimeconfig.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll

@@ -58,3 +58,18 @@ D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.IEntityOperation\
 D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\refint\PPM.IEntityOperation.dll
 D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.pdb
 D:\Downloads\Entity Framework PPM (1)\Entity Framework PPM\PPM.IEntityOperation\obj\Debug\net7.0\ref\PPM.IEntityOperation.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\bin\Debug\net7.0\PPM.IEntityOperation.deps.json
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\bin\Debug\net7.0\PPM.IEntityOperation.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\bin\Debug\net7.0\PPM.IEntityOperation.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.csproj.AssemblyReference.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.AssemblyInfoInputs.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.AssemblyInfo.cs
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.csproj.CoreCompileInputs.cache
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.csproj.CopyComplete
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\refint\PPM.IEntityOperation.dll
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\PPM.IEntityOperation.pdb
+C:\Users\SPasapula\Downloads\PPM.API-master\PPM.API-master\PPM.IEntityOperation\obj\Debug\net7.0\ref\PPM.IEntityOperation.dll

@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PPM.DAl.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Linq;
 
 
 namespace PPM.API.Controllers
@@ -17,7 +16,7 @@ namespace PPM.API.Controllers
             {
                 using (ProlificsProjectManagementEntities context = new ProlificsProjectManagementEntities())
                 {
-                    var employeesInProject = context.Projects.FirstOrDefault(p => p.ProjectId == projectId).Employees.ToList();
+                    var employeesInProject = context.Projects.Where(x => x.ProjectId == projectId).First().Employees.ToList();
                     if (employeesInProject == null)
                     {
                         return NotFound("No employees in this project");
@@ -54,6 +53,39 @@ namespace PPM.API.Controllers
                 }
             }
             catch (Exception ex)
+            {
+                return BadRequest("Error occured");
+            }
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> RemoveEmployeeFromProject(int projectId, int employeeId)
+        {
+            try
+            {
+                using(ProlificsProjectManagementEntities context = new ProlificsProjectManagementEntities())
+                {
+                    var project = context.Projects.FirstOrDefault(x => x.ProjectId == projectId);
+                    if(project == null)
+                    {
+                        return NotFound("Project not found");
+                    }
+                    var employee = context.Employees.FirstOrDefault(x => x.Employeeid == employeeId);
+                    if(employee == null)
+                    {
+                        return NotFound("employee does not exists");
+                    }
+                    var employeeInProject = context.Projects.Include(x => x.Employees).Where(x => x.ProjectId == projectId).First().Employees.FirstOrDefault(x => x.Employeeid == employeeId);
+                    if(employeeInProject == null)
+                    {
+                        return NotFound("Employee does not exists in this project");
+                    }
+                    context.Projects.Find(projectId).Employees.Remove(employeeInProject);
+                    await context.SaveChangesAsync();
+                    return Ok("Deleted successfully");
+                }
+            }
+            catch(Exception ex)
             {
                 return BadRequest("Error occured");
             }
